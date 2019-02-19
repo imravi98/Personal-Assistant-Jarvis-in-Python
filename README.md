@@ -1,8 +1,5 @@
-# Jarvis-artificial-intelligence
-Jarvis is a personal assistant made using Python.
-It is coded in a structured way so that you can easily understaind and modify the code for your needs. 
-I only tested Jarvis on windows, but it should run on other operating systems if the required modules are installed.
-
+# Personal Desktop Assistant
+Jarvis is a personal Desktop assistant made using Python.
 To use it:
 1. Create a project folder
 2. Put 'Jarvis.py' in that folder.
@@ -11,4 +8,4 @@ Install all requested modules (pyaudio, speech_recognition, pygame, socket, webb
 these modules are preinstalled with Python.
 Jarvis uses Google for converting speech to text, so you need an internet connection. 
 
-Enjoy :D
+
